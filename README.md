@@ -1,2 +1,3 @@
 # CS50w_projects
-My achievements in the course CS50's Web Programming with Python and JavaScript
+The first assignment of CS50 Web Programming with Python and JavaScript: Design a front-end for Google Search, Google Image Search, and Google Advanced Search with HTML and SCSS.
+
